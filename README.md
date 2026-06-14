@@ -11,7 +11,9 @@
 *DURATION* :8 WEEKS
 
 *MENTOR* :NEELA SANTHOSH KUMAR
+
 Decision Tree is a supervised machine learning algorithm used for classification and regression tasks. It predicts outcomes by creating a tree-like structure of decisions based on inpu**t features. Each internal node represents a feature, each branch represents a decision rule, and each leaf node represents the final prediction
+
 **tools and libraries**
 Python: Main programming language used for implementation.
 Pandas: Used for data handling and preprocessing.
@@ -22,6 +24,7 @@ Decision Tree model creation
 Model evaluation
 Matplotlib: Used to visualize the decision tree structure.
 Jupyter Notebook: Used for coding, execution, visualization, and analysis.
+
 Applications of Decision Trees
 Decision Trees are widely used in various fields:
 Healthcare: Disease diagnosis and medical decision support.
