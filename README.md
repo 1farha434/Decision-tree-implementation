@@ -34,3 +34,6 @@ Education: Predicting student performance and identifying learning patterns.
 E-commerce: Product recommendations and customer behavior analysis.
 Fraud Detection: Detecting fraudulent transactions and activities.
 Agriculture: Crop prediction and plant disease classification.
+
+**output**
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/85136ea2-7aa5-4bbe-b4c9-264ef716b724" />
